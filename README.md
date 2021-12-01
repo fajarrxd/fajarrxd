@@ -1,6 +1,6 @@
 ```
 Hello everyone introduce my name is Fajar 
-      i come from cianjur city
+        i come from cianjur city
 ```
 <!--
 **fajarrxd/fajarrxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
